@@ -1,5 +1,4 @@
 # Aimeck15
-### 📝 Aimeck15
 
 [Next-Gen AI/OCR Integration] Stop worrying about "1-pixel deviations." Meet "Aimeck15," the intelligent auto-clicker that "reads" your screen to take action.
 
