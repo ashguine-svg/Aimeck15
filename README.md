@@ -40,7 +40,7 @@ Instead of relying on math formulas, I physically sampled my own wrist movements
 ## 🎁 14-Day Free Trial
 Experience the power of intelligent automation yourself. A fully functional 14-day trial is included in the latest release.
 
-### [📥 Download the Latest Release (v1.3.6) Here](https://github.com/ashguine-svg/Aimeck15/releases/tag/v1.3.6)
+### [📥 Download the Latest Release (v1.3.6) Here](https://github.com/ashguine-svg/Aimeck15/releases/tag/v1.3.7)
 
 ### How to run:
 **For Windows:**
