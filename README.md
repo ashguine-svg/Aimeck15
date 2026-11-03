@@ -44,10 +44,10 @@ Experience the power of intelligent automation yourself. A fully functional 14-d
 
 ### How to run:
 **For Windows:**
-Simply download `Aimeck15_v1.3.6_Windows_x64.zip`, extract, and run the executable.
+Simply download `Aimeck15_v1.3.7_Windows_x64.zip`, extract, and run the executable.
 
 **For Linux (X11):**
-Download `Aimeck15_v1.3.6_Linux_x64_X11.zip`, extract, grant execution permissions, and run.
+Download `Aimeck15_v1.3.7_Linux_x64_X11.zip`, extract, grant execution permissions, and run.
 *(Note: Wayland is currently not supported due to strict input injection and screen capture security models. Please use an X11 session or XWayland.)*
 
 ---
